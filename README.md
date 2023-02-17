@@ -1,2 +1,2 @@
-# PROC39
-Código final de la clase C39
+# C40_Actividad de la maestra_Código boilerplate
+Actividad de la maestra
